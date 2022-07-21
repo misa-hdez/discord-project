@@ -1,0 +1,36 @@
+.mytitle {
+    background-color: gainsboro;
+    width: 45%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:  20px;
+    position: sticky;
+    top: 20px;
+}
+.mytext {
+    width: 55%;
+    background-color: whitesmoke;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 40px;
+    padding: 20px;
+}
+.myimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+h1, h2 {
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+p {
+    text-align: left;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+body {
+    background-color: #579c8e;
+}
