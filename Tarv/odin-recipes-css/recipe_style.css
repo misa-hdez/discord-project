@@ -1,0 +1,27 @@
+body {
+    background-color: #ffb703;
+}
+
+h1 {
+  text-align: center;
+  font-family: arial, Helvetica;
+}
+
+img {
+  width: 450px;
+  height: 300px;
+  text-align: center;
+}
+
+h2, p, li {
+  font-family: Verdana;
+}
+
+h2, p{
+  text-align: center;
+}
+
+div {
+  border: 1px solid;
+  margin: 10px;
+}
