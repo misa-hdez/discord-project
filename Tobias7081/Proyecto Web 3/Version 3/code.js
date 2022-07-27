@@ -2,7 +2,7 @@ var nombre;
 var saludo;
 var frase1;
 var contenido1;
-/* nombre = prompt("Cual es tu nombre?"); */
+nombre = prompt("Cual es tu nombre?");
 contenido1 = " bienvenido a el mejor lugar para aprender de tortugas";
 saludo = "Hola ";
 frase1 = saludo + nombre + contenido1;
