@@ -1,0 +1,14 @@
+header{
+    text-align: center;
+    position: relative;
+    bottom: 40px;
+}
+main{
+    position: relative;
+    top: 10vw;
+}
+#a{
+    text-align: center;
+    position: relative;
+    bottom: 150px;
+}

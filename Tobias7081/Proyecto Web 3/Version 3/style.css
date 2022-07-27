@@ -1,0 +1,135 @@
+header{
+    text-align: center;
+    position: relative;
+    bottom: 4vw;
+}
+main{
+    position: relative;
+    top: 10vw;
+}
+.a{
+    text-align: center;
+    position: relative;
+    bottom: 20vw;
+}
+body{
+    background-color: #84BE68;
+}
+.center{
+    text-align: center;
+}
+.up{
+    position: relative;
+    bottom: 10vw;
+}
+/* .b{
+    position: relative;
+    left: 215px;
+    bottom: 40px;
+} */
+#chiquito{
+    width: 30vw;
+    position: relative;
+    left: 35vw;
+    bottom: 8vw;
+}
+table {
+    width: 100%;
+    bottom: 8vw;
+ }
+ th, td {
+    width: 25%;
+    text-align: center;
+    position: relative;
+    bottom: 8vw;
+    border: 1px solid #000;
+    border-collapse: collapse;
+    background-color: #A268BE;
+ }
+ caption{
+    position: relative;
+    bottom: 8vw;
+    border: 1px solid #000;
+    background-color: #A268BE;
+ }
+ /* #A23047 */
+/*  .z{
+    
+ } */
+ .c{
+    left: 40%;
+    width: 50%;
+ }
+ .nombre{
+    margin: 0%;
+ }
+ .f{
+    margin-bottom: 4vw;
+ }
+ .d{
+    text-align: right;
+ }
+.pie-pagina{
+    width: 100%;
+    background-color: #0a141d;
+}
+.pie-pagina .g1{
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 50px;
+    padding: 45px 0px;
+}
+.pie-pagina .g1 .box h2{
+    color: white;
+    margin-bottom: 25px;
+    font-size: 20px;
+}
+.pie-pagina .g1 .box p{
+    color: #efefef;
+    margin-bottom: 10px;
+}
+.pie-pagina .g1 .red-social a{
+    display: inline-block;
+    text-decoration: none;
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    margin-right: 10px;
+    background-color: #0d2033;
+    color: #fff;
+    text-align: center;
+    transition: all 300ms ease;
+}
+.pie-pagina .g1 .red-social a:hover{
+    color: aqua;
+}
+.pie-pagina .g2{
+    background-color: #0a1a2a;
+    padding: 15px 10px;
+    text-align: center;
+    color: black;
+}
+.pie-pagina .g2 small{
+    font-size: 15px;
+}
+@media screen and (max-width:800px) {
+    .pie-pagina .g1{
+        width: 90%;
+        grid-template-columns: repeat(1, 1fr);
+        grid-gap: 30px;
+        padding: 35px 0px;
+    }
+}
+.pie-pagina .g1 .box figure{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pie-pagina .g1 .box figure img{
+    width: 250px;
+}
