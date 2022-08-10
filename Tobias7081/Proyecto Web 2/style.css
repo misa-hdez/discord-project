@@ -1,0 +1,65 @@
+header{
+    font-family: 'Righteous', cursive;
+    background-color: paleturquoise;
+    padding-bottom: 2%;
+    top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 15px;
+    position: sticky;
+}
+h2{
+    color: blueviolet;
+    font-family: 'Abril Fatface', cursive;
+    border-style: dashed;
+    border-color: orangered;
+    margin-top: 5%;
+    background-color: orange;
+}
+.Ce{
+    text-align: center;
+}
+.P1{
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-weight: bold;
+}
+body{
+    background-color: silver;
+}
+/* .IZQ{
+    text-align: left;
+} */
+/* .IZQ{
+    margin: 0px;
+    padding: 0px;
+    text-align: left;
+} */
+/* .IZQ{
+    text-align: center;
+} */
+/* .Centro{
+    position: relative;
+    top: 3vw;
+    left: 55vw;
+} */
+.Centro2{
+    position: relative;
+    right: 15vw;
+    margin: 0%;
+    padding: 0%;
+    width: 10%;
+}
+.B{
+    border-style: solid;
+    border-color: black;
+    background-color: chocolate;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 40px;
+}
+.D{
+    position: relative;
+    bottom: 125px;
+}
