@@ -5,28 +5,6 @@
     color: #233247;
 }
 
-.main-title {
-    text-align: center;
-    font-size: 40px;
-    margin: -22px auto 20px;
-}
-
-/* Image properties */
-.Odin-Logo {
-    display:block;
-    height: auto;
-    width: 110px;
-    margin: 0 auto;
-}
-
-.mexican-food {
-    display: block;
-    height: auto;
-    width: 60%;
-    margin: 30px auto;
-    border: 10px solid #233247;
-}
-
 /* Block properties */
 body {
     background-color: #f24236;
@@ -36,7 +14,19 @@ body {
 .main-body {
     background-color: #fbfef9;
     width: 70%;
+    padding-top: 20px;
     margin: 20px auto;
+}
+
+.head {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-title {
+    font-size: 50px;
+    margin: 0 -10px;
 }
 
 .list {
@@ -56,3 +46,18 @@ footer {
     padding: 1em 1em 0.5em;
     margin: 0;
 }
+
+/* Image properties */
+.Odin-Logo {
+    height: auto;
+    width: 80px;
+}
+
+.mexican-food {
+    display: block;
+    height: auto;
+    width: 60%;
+    margin: 30px auto;
+    border: 10px solid #233247;
+}
+
